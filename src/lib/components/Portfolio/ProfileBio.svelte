@@ -20,13 +20,15 @@ Accepts a string and renders paragraphs separated by blank lines.
 
 <style lang="scss">
   .now-next {
-    margin-top: var(--spacing-sm);
+    margin-top: var(--spacing-xs);
   }
 
   .now-next p {
-    line-height: var(--leading-relaxed);
-    margin: 0 0 var(--spacing-sm);
+    line-height: 1.5;
+    margin: 0 0 calc(var(--spacing-xs) * 1.15);
     max-width: 46rem;
-    font-size: var(--font-size-lg);
+    font-size: clamp(0.95rem, 1.4vw, 1.05rem);
+    font-family: var(--font-serif);
+    color: var(--color-white);
   }
 </style>

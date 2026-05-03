@@ -1,0 +1,101 @@
+name: Emma Ferrara
+tagline: "Economics Reporter · Data Enthusiast"
+photo: "/photos/Screenshot 2026-05-02 at 8.14.31 PM.png"
+photoFull: false
+photoAlt: "Emma Ferrara"
+email: emma@example.com
+github: emmaf
+linkedin: emmaf
+bio: |
+  I'm a journalist passionate about highlighting human stories in economics reporting. I'm most proud of the strong trust I build with sources and my ability to connect with people during interviews.
+
+  I believe in fact-based reporting. I've found success in using data to drive my enterprise reporting. I utilize Python's pandas library for analysis and Svelte to create compelling visualizations.
+
+  I'm an Upstate New York native who moved to New York City at 18. There's nothing I love more than living in New York but while I've reported extensively on urban communities, I try to never foget my roots. I'm especially proud of my reporting that highlights economic issues in underrepresented rural areas across the county.
+
+  I have four years of expirience in public radio and spent one year editing and writing articles for publications like Time, LIFE and National Geographic. I thrive working in busy newsrooms and nothing drives me more than being on a deadline.
+clips:
+  - title: Tiny microchips bring big affordability concerns to Syracuse
+    description: "Syracuse real estate prices have skyrocked in recent years. Are big investments a recipe for affordability concerns?"
+    category: Economy
+    href: https://issuenumberone.journalism.cuny.edu/2026/04/11/tiny-microchips-bring-big-affordability-concerns-to-syracuse/
+    image: /photos/economics-story-1.jpg
+    url: https://issuenumberone.journalism.cuny.edu/2026/04/11/tiny-microchips-bring-big-affordability-concerns-to-syracuse/
+    skills:
+      - Housing
+      - Economic development
+      - Enterprise reporting
+    body: |
+      A look at how major semiconductor investment can boost local growth while
+      putting pressure on housing supply and affordability.
+
+  - title: New Home Sales Plummet to the Lowest Levels Since 2022
+    description: "January's drop in new home sales highlights the ongoing fragility of the U.S. housing market."
+    category: Economy
+    href: https://issuenumberone.journalism.cuny.edu/2026/03/22/new-home-sales-plummet-to-the-lowest-levels-since-2022/
+    image: /photos/economics-story-2.jpg
+    url: https://issuenumberone.journalism.cuny.edu/2026/03/22/new-home-sales-plummet-to-the-lowest-levels-since-2022/
+    skills:
+      - Housing market
+      - Economic analysis
+      - Source interviews
+    body: |
+      Reporting on how weather shocks, high rates, and market uncertainty pushed
+      new home sales to their lowest levels in years.
+
+  - title: New Home Sales tick up but it’s still the same housing market
+    description: "Affordability and supply constraints continue to hold buyers back despite an optimistic indicator report."
+    category: Housing
+    href: https://issuenumberone.journalism.cuny.edu/2026/02/23/new-home-sales-tick-up-but-its-still-the-same-housing-market/
+    image: /photos/economics-story-3.jpg
+    url: https://issuenumberone.journalism.cuny.edu/2026/02/23/new-home-sales-tick-up-but-its-still-the-same-housing-market/
+    skills:
+      - Housing policy
+      - Data-driven reporting
+      - Economics
+    body: |
+      An analysis of why modest gains in new home sales are not enough to solve
+      persistent affordability challenges.
+
+localNews:
+  - title: At NYCHA's Hammel Houses, Residents Wait for Sandy-Damaged Community Center to Reopen
+    description: "Residents are still waiting for a community center shuttered by Superstorm Sandy to reopen."
+    category: Local News
+    href: https://citylimits.org/at-nychas-hammel-houses-residents-wait-for-sandy-damaged-community-center-to-reopen/
+    image: /photos/local-news-1.jpg
+    url: https://citylimits.org/at-nychas-hammel-houses-residents-wait-for-sandy-damaged-community-center-to-reopen/
+    skills:
+      - Housing
+      - Community reporting
+      - Accountability
+    body: |
+      Reporting on long-delayed recovery at Hammel Houses and the impact on
+      neighborhood gathering spaces.
+
+  - title: A Way Out…Almost
+    description: "After years of waiting, rockaway residents may get an evacuation plan tailored to the peninsula."
+    category: Local News
+    href: https://www.rockawave.com/articles/a-way-outalmost/
+    image: /photos/local-news-2.jpg
+    url: https://www.rockawave.com/articles/a-way-outalmost/
+    skills:
+      - Climate risk
+      - Emergency planning
+      - Local policy
+    body: |
+      A look at the community campaign for stronger evacuation planning in
+      Rockaway.
+
+  - title: Rising Tides Won’t Drive Rockaway Homeowners Away
+    description: "Even with flood risk, the Rockaway housing market remains active and resilient."
+    category: Local News
+    href: https://www.rockawave.com/articles/rising-tides-wont-drive-rockaway-homeowners-away/
+    image: /photos/local-news-3.png
+    url: https://www.rockawave.com/articles/rising-tides-wont-drive-rockaway-homeowners-away/
+    skills:
+      - Real estate
+      - Coastal communities
+      - Data reporting
+    body: |
+      An exploration of how flood risk and housing demand intersect across
+      Rockaway neighborhoods.
